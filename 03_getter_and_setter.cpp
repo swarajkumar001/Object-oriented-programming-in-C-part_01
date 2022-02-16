@@ -1,5 +1,5 @@
 
-// hoe to get the private value and how to set the private value
+// how to get the private value and how to set the private value
 #include <iostream>
 using namespace std;
 class student{
