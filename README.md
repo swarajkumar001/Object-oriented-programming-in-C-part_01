@@ -1,2 +1,2 @@
-# Object-oriented-programming-in-C-part_01
+# Object-oriented-programming-in-C++-part_01
 Here we learn the basics of the object oriented programming....
